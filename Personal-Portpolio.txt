@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>John Philip Miguel T. Lorenzo - Profile</title>
+</head>
+<body>
+    <table width="100%" border="1" cellpadding="10">
+        <tr>
+            <td width="40%" valign="top">
+                <table width="100%">
+                    <tr>
+                        <td align="center">
+                            <img src="ghibili.png" alt="John Philip Miguel T. Lorenzo" width="250" height="250">
+                        </td>
+                    </tr>
+                </table>
+                
+                <br>
+                
+                <h3><b>CONTACT</b></h3>
+                <ul>
+                    <li>(+63) 991 - 307- 2470</li>
+                    <li><a href="mailto:johnphilipmiguellorenzo@gmail.com">johnphilipmiguellorenzo@gmail.com</a></li>
+                    <li><a href="https://www.facebook.com/yourprofile" target="_blank">Facebook</a></li>
+                    <li><a href="https://www.instagram.com/yourprofile" target="_blank">Instagram</a></li>
+                </ul>
+                
+                <br>
+                
+                <h3><b>ABOUT ME</b></h3>
+                <p>
+                    I am John Philip Miguel T. Lorenzo, a dedicated student leader and chess enthusiast currently serving as the Protocol Officer for STEM Alliance. With a strong passion for strategic thinking and community engagement, I have actively participated in various school organizations and competitions throughout my academic journey.
+                </p>
+                
+                <p>
+                    My leadership experience spans multiple roles including Class Treasurer, where I managed financial responsibilities, and various positions in student organizations such as Yes-O Organization, BKD, and Boy Scout of the Philippines. These experiences have shaped my ability to work collaboratively and contribute meaningfully to team efforts.
+                </p>
+                
+                <p>
+                    Beyond academics, I have demonstrated excellence in competitive chess, earning multiple championship titles at intramural and division levels. My participation in the Central Luzon Regional Athletic Association (CLRAA) Chess Competition reflects my commitment to representing my school at higher competitive levels.
+                </p>
+                
+                <p>
+                    Through my involvement in technical committees and working groups for various school programs, I have developed strong organizational and coordination skills. I believe in the power of student leadership to create positive change and meaningful experiences within our educational community.
+                </p>
+                
+                <br>
+                
+                <h3><b>ACHIEVEMENTS</b></h3>
+                <table width="100%" border="1" cellpadding="8">
+                    <tr>
+                        <th>Competition</th>
+                        <th>Achievement</th>
+                        <th>Year</th>
+                    </tr>
+                    <tr>
+                        <td>Intramurals Chess Competition</td>
+                        <td>Champion</td>
+                        <td>2022 - 2023</td>
+                    </tr>
+                    <tr>
+                        <td>Intramurals Chess Competition</td>
+                        <td>1st Place</td>
+                        <td>2023 - 2024</td>
+                    </tr>
+                    <tr>
+                        <td>Division Meet Chess Competition</td>
+                        <td>3rd Place</td>
+                        <td>2022 - 2023</td>
+                    </tr>
+                    <tr>
+                        <td>Division Meet Chess Competition</td>
+                        <td>Champion</td>
+                        <td>2023 - 2024</td>
+                    </tr>
+                    <tr>
+                        <td>Central Luzon Regional Athletic Association (CLRAA) Chess Competition</td>
+                        <td>Participant</td>
+                        <td>2023 - 2024</td>
+                    </tr>
+                </table>
+            </td>
+            
+            <td width="60%" valign="top">
+                <table width="100%" cellpadding="20">
+                    <tr>
+                        <td>
+                            <h1><b>JOHN PHILIP MIGUEL T. LORENZO</b></h1>
+                            <h3><i>STEM ALLIANCE - PROTOCOL OFFICER</i></h3>
+                        </td>
+                    </tr>
+                </table>
+                
+                <br>
+                
+                <table width="100%" cellpadding="15" border="1">
+                    <tr>
+                        <th colspan="3"><h2>AFFILIATIONS</h2></th>
+                    </tr>
+                    <tr>
+                        <th>Organization/Position</th>
+                        <th>Role/Activities</th>
+                        <th>Year</th>
+                    </tr>
+                    <tr>
+                        <td><b>Class Officer - Treasurer</b></td>
+                        <td>Financial management</td>
+                        <td>2022 - 2023</td>
+                    </tr>
+                    <tr>
+                        <td><b>Yes-O Organization</b></td>
+                        <td>
+                            • Wash in School (WinS) Participants<br>
+                            • Clean up Drive Participants
+                        </td>
+                        <td>2022 - 2023</td>
+                    </tr>
+                    <tr>
+                        <td><b>BKD - Organization</b></td>
+                        <td>Member</td>
+                        <td>2022 - 2023</td>
+                    </tr>
+                    <tr>
+                        <td><b>Boy Scout of the Philippines</b></td>
+                        <td>Member</td>
+                        <td>2022 - 2023</td>
+                    </tr>
+                    <tr>
+                        <td><b>STEM Alliance - Interim Officer</b></td>
+                        <td>• Opening Remarks Program Technical Committee</td>
+                        <td>2023 - 2024</td>
+                    </tr>
+                    <tr>
+                        <td><b>STEM Alliance - Protocol Officer</b></td>
+                        <td>
+                            • National Student's Day Program Technical Committee Group<br>
+                            • Sinagtala (Year End Party) Technical Working Group<br>
+                            • SILAKBO Digital Art Head Contest<br>
+                            • SILAKBO Technical Working Group
+                        </td>
+                        <td>2023 - 2024</td>
+                    </tr>
+                    <tr>
+                        <td><b>Yes-O Organization</b></td>
+                        <td>Member</td>
+                        <td>2023 - 2024</td>
+                    </tr>
+                    <tr>
+                        <td><b>BKD - Organization</b></td>
+                        <td>Member</td>
+                        <td>2023 - 2024</td>
+                    </tr>
+                    <tr>
+                        <td><b>Boy Scout of the Philippines</b></td>
+                        <td>Member</td>
+                        <td>2023 - 2024</td>
+                    </tr>
+                    <tr>
+                        <td><b>Youth for Commission on Election and Appointment</b></td>
+                        <td>Operational Committee</td>
+                        <td>2022 - 2023</td>
+                    </tr>
+                    <tr>
+                        <td><b>Learner Government - Commission on Election and Appointment (LG COMEA)</b></td>
+                        <td>Operational Committee</td>
+                        <td>2023 - 2024</td>
+                    </tr>
+                </table>
+                
+                <br>
+                
+                <table width="100%" cellpadding="15">
+                    <tr>
+                        <td align="center">
+                            <h3><b>Background Music</b></h3>
+                            <audio controls>
+                                <source src="WarmPlace.mp3" type="audio/mpeg">
+                                Your browser does not support the audio element.
+                            </audio>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
